@@ -1,0 +1,27 @@
+.top__3{
+    background: #d11c1c;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+
+.text__2{
+   margin-top: 1rem;
+   font-weight: 300;
+    font-family: "ff-basic-gothic-pro",sans-serif;
+
+}
+.carousel-control-prev-icon 
+{
+    width: 24px;
+    height: 24px;
+}
+    
+.carousel-control-next-icon
+{
+    width: 24px;
+    height: 24px;
+}
